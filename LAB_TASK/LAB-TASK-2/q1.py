@@ -22,7 +22,7 @@ while True:
         print("Paper beats rock!",a, "You win!")
     
     elif x == "paper" and y == "scissor":
-        print("Scissor beats paper!",a, "You loss.")
+        print("Scisssor beats paper!",a, "You loss.")
             
     
     z = input("Do You want to play again?(Y/N)")
